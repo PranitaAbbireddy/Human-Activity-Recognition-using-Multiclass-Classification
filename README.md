@@ -1,4 +1,4 @@
-# Human-Activity-Recognition-using-Multiclass-Classification-
+# Human Activity Recognition using Multiclass Classification
 
 This project involves classifying human activities (e.g., walking, sitting, standing) based on data collected from the accelerometer and gyroscope sensors of a smartphone. The data was collected from 30 participants performing six predefined activities in a controlled environment. The project uses multiclass classification techniques to predict the activity type from sensor readings.
 
